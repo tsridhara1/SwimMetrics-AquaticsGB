@@ -72,18 +72,6 @@ SwimMetrics is designed to be intuitive for coaches, analysts, and federation st
 
 ---
 
-## 🏗️ Architecture & Tech Stack
-
-```
-SwimMetrics
-├── Frontend        React + Plotly.js + Leaflet (globe visualisation)
-├── Data Layer      Custom ETL pipeline — FINA/World Aquatics results data
-├── Analytics       Python (Pandas, Scikit-learn) — projection & matching models
-└── Design System   Dark-mode-first UI with a Navy / Cyan / Gold palette
-```
-
----
-
 ## 🎨 Design Thinking Approach
 
 The hackathon brief required us to apply **design thinking methodology** end-to-end. Our process:
@@ -106,21 +94,6 @@ This project was developed in partnership with **Aquatics GB** as part of the **
 
 > **🥇 Best Application of Design Thinking** — Data & Design Hackathon 2026 · University of Sheffield × Aquatics GB
 
----
-
-## 📁 Repository Structure
-
-```
-swimmetrics/
-├── src/
-│   ├── components/        # React UI components
-│   ├── pages/             # Home · Progression Analytics · Comparator
-│   ├── data/              # ETL scripts and processed datasets
-│   └── models/            # Projection & peer-matching algorithms
-├── public/
-├── assets/                # GIFs, collage and screenshots for this README
-└── README.md
-```
 
 ---
 
