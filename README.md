@@ -7,14 +7,6 @@ SwimMetrics is a full-stack data analytics platform built for elite swimming coa
 
 ---
 
-## 🏆 Award
-
-![Hackathon Collage](assets/hackathon_collage.jpg)
-
-*Receiving the **Best Application of Design Thinking** award at the Data & Design Hackathon 2026, University of Sheffield — in collaboration with Aquatics GB and the Centre for Machine Intelligence.*
-
----
-
 > ⚠️ **Note:** Everything shown below is a **basic overview** of the project's core features. The platform contains further depth and functionality beyond what is demonstrated here.
 
 ---
